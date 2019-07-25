@@ -1,7 +1,3 @@
-(If you're reading this plain version, check out [the fancy version][] of this email in your browser.)
-
-[the fancy version]: https://www.stuartandtiare.com/2019/emails/savethedate.html
-
 # JULY 11, 2020 #
 
 ## South Lake Union, Seattle, WA ##
@@ -33,3 +29,7 @@ Tiare and Stuart (the Bride and Gride)
 Follow information at our wedding website:
 
 <https://www.StuartAndTiare.com/>
+
+(Also, if you're reading this plain-text version of our email, check out [the fancy version][] of it in your browser for the full experience.)
+
+[the fancy version]: https://www.stuartandtiare.com/2019/emails/savethedate.html

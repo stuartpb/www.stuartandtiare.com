@@ -166,9 +166,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3293607"
-     inkscape:cx="156.34822"
-     inkscape:cy="214.36126"
+     inkscape:zoom="0.93999997"
+     inkscape:cx="173.0184"
+     inkscape:cy="272.56653"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -188,7 +188,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -205,13 +205,6 @@
        inkscape:path-effect="#path-effect874"
        inkscape:original-d="M 12.887225,264.15994 H 54.335327"
        transform="matrix(1.0072313,0,0,1.0017015,-0.39290219,-0.44945022)" />
-    <rect
-       y="261.60327"
-       x="33.890656"
-       height="3.2225266"
-       width="1.5371821"
-       id="rect872"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93080664px;line-height:1.25;font-family:'Trade Winds';-inkscape-font-specification:'Trade Winds';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -333,13 +326,12 @@
          x="18.011065"
          id="tspan4577"
          sodipodi:role="line">We'll be there in spirit</tspan></text>
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.282592,263.80505 2.254548,0.18197 -0.695232,0.61369 -0.701121,0.0634 z"
        id="rect870"
-       width="1.5371821"
-       height="3.2225266"
-       x="20.661488"
-       y="261.60327" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trade Winds';-inkscape-font-specification:'Trade Winds';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -390,6 +382,12 @@
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 8.8204651,253.61226 h 4.5799999 v 4.58 H 8.8204651 Z"
        id="rect4689" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.20000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 33.459797,263.80786 2.226559,0.24728 -0.763648,0.53905 -0.604716,0.0727 z"
+       id="rect870-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.26873255px;line-height:1.25;font-family:'Trade Winds';-inkscape-font-specification:'Trade Winds';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"

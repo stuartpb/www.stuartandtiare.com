@@ -1,0 +1,81 @@
+html, body {
+    margin: 0 auto;
+    padding: 0;
+}
+html {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(0.25turn,#71c6ff, #eee, #71c6ff);
+}
+body {
+  max-width: 800px;
+  min-height: 100%;
+  display: flex;
+  flex-flow: column;
+  color: white;
+  background: white;
+  text-align: center;
+  font-family: "Noto Serif", serif;
+}
+a {
+  color: white;
+}
+.button {
+  text-decoration: none;
+  transition: all 100ms ease-in;
+}
+.button:hover {
+  background: #aaa;
+  border-color: #aaa;
+}
+header {
+  display: flex;
+  flex-flow: column;
+  justify-content: flex-end;
+  align-items: stretch;
+  background: url("/2020/header.svg");
+  min-height: 440px;
+  padding: 0 2.4em;
+}
+h1, h2 {
+  font-family: "Trade Winds", sans-serif;
+}
+.wedding-date {
+  font-size: 5em;
+  margin: .25em 0 0;
+}
+.strong {
+  font-weight: bold;
+}
+header h1 {
+  font-size: 4.2em;
+  text-shadow: 0px 1px 1px #4d4d4d;
+  margin-bottom: 0;
+}
+.nonav {
+  margin-bottom: .5em;
+}
+main {
+  background: url("/2020/midway.svg");
+  padding: 0 5em;
+}
+footer {
+  background: url("/2020/footer.svg");
+  min-height: 432px;
+}
+nav {
+  font-family: "Trade Winds", sans-serif;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+}
+nav a {
+  /*text-decoration: none;*/
+}
+nav li {
+  list-style: none;
+}

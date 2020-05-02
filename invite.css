@@ -13,7 +13,7 @@ body {
   display: flex;
   flex-flow: column;
   color: white;
-  background: white;
+  background: url("/2020/header.svg") top/100% no-repeat, url("/2020/footer.svg") bottom/100% no-repeat, url("/2020/midway.svg") 0 440px/100%, #214ca8;
   text-align: center;
   font-family: "Noto Serif", serif;
 }
@@ -33,7 +33,6 @@ header {
   flex-flow: column;
   justify-content: flex-end;
   align-items: stretch;
-  background: url("/2020/header.svg");
   min-height: 440px;
   padding: 0 5em;
 }
@@ -56,11 +55,11 @@ header h1 {
   margin-bottom: .5em;
 }
 main {
-  background: url("/2020/midway.svg");
+  background: url("/2020/midway.svg") top/100%;
   padding: 0 5em;
 }
 footer {
-  background: url("/2020/footer.svg");
+  background: ;
   min-height: 432px;
 }
 nav {
@@ -72,7 +71,7 @@ nav ul {
   margin: 0;
   padding: 0;
   display: flex;
-  flex-flow: row;
+  flex-flow: row wrap;
   justify-content: space-around;
 }
 nav a {

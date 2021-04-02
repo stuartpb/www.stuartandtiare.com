@@ -2,3 +2,8 @@ extends base
 
 append head
   link(rel="stylesheet", href="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css")
+  style#lg-hack.
+    /* hack to fix images being centered on the right edge of the screen */
+    .lg-outer .lg-item {
+      left: 0;
+    }

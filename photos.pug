@@ -1,0 +1,13 @@
+---
+layout: photos.pug
+title: Stuart and Tiare - Photos
+---
+#gallery.gallery
+  ul.image-grid
+    for photo in photos
+      li.image-container
+        a(href="https://assets.stuartandtiare.com/2021/"+photo)
+          img(src="https://assets.stuartandtiare.com/2021/thumbs/"+photo).grid-image
+script(src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js")
+script.
+  lightGallery(document.getElementById('gallery'));

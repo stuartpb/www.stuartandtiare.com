@@ -64,6 +64,7 @@ footer {
 }
 nav {
   font-family: "Trade Winds", sans-serif;
+  font-size: 1.2em;
   border: solid white;
   border-width: 1px 0;
 }
@@ -74,9 +75,8 @@ nav ul {
   flex-flow: row wrap;
   justify-content: space-around;
 }
-nav a {
+h1 a, nav a {
   text-decoration: none;
-  font-size: 1.2em;
 }
 nav li {
   list-style: none;

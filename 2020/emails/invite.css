@@ -59,11 +59,11 @@ main {
   padding: 0 5em;
 }
 footer {
+  background: ;
   min-height: 432px;
 }
 nav {
   font-family: "Trade Winds", sans-serif;
-  font-size: 1.2em;
   border: solid white;
   border-width: 1px 0;
 }
@@ -74,15 +74,12 @@ nav ul {
   flex-flow: row wrap;
   justify-content: space-around;
 }
-h1 a, nav a {
+nav a {
   text-decoration: none;
+  font-size: 1.2em;
 }
 nav li {
   list-style: none;
-}
-main ul {
-  list-style-position: inside;
-  padding: 0;
 }
 
 @media (max-width: 750px) {
@@ -100,25 +97,3 @@ main ul {
   }
 }
 
-.image-grid {
-  list-style: none;
-  display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(10rem,1fr));
-  gap: 3px;
-  max-width: 1100px;
-  margin: 1rem auto 3rem auto;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-
-.image-container {
-  height: 10rem;
-  overflow: hidden;
-  border-radius: 2px;
-}
-
-.grid-image {
-  object-fit: cover;
-  height: 10rem;
-  width: 100%;
-}
